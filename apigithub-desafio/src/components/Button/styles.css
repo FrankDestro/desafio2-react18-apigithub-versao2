@@ -1,0 +1,7 @@
+.dsc-btn-blue {
+    border: none;
+    background-color: var(--dsc-color-btn-primary);
+    color: var(--dsc-color-btn-inverse);
+    width: 101px!important;
+    height: 40px!important;
+  }
